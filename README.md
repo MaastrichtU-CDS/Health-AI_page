@@ -6,6 +6,7 @@ The official website for the **Health-AI** project - a System Breakthrough Proje
 
 ---
 
+
 ## 📚 Table of Contents
 
 - [Quick Start](#-quick-start)
@@ -464,3 +465,4 @@ This project is part of the Health-AI System Breakthrough Project, funded by the
 - **Content editing:** Use [PagesCMS](https://pagescms.org/) for the visual editor
 - **Technical issues:** Open an issue on [GitHub](https://github.com/ThijsAckermans/Health-AI_page/issues)
 - **Project inquiries:** Contact the coordinator at Medical Data Works B.V.
+
