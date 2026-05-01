@@ -1,18 +1,20 @@
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  // Static export required for GitHub Pages
+  // Required for GitHub Pages
   output: 'export',
 
-  // Disable Next.js image optimization (required for static hosting)
+  // IMPORTANT: repository name
+  basePath: '/Health-AI_page',
+  assetPrefix: '/Health-AI_page',
+
+  // Required because GitHub Pages is static
   images: {
     unoptimized: true,
   },
 
-  // Trailing slashes work well with GitHub Pages
+  // Works best with GitHub Pages
   trailingSlash: true,
 };
 
 module.exports = nextConfig;
-``
-
